@@ -1,0 +1,28 @@
+# Site Settings
+title: "Francis Nkrumah (PhD)"       # The title of your site
+description: "Welcome to my site!" # A brief description for your site
+author: 
+  name: "Francis Nkrumah"                # Your name
+  email: "francis.nkrumah@ucc.edu.gh"  # Your email (optional)
+
+# URL Settings
+baseurl: ""                        # Base URL if the site is in a subdirectory (leave blank for root)
+url: "https://FNkrumah.github.io"  # URL of your site
+
+# Theme Settings
+theme: minima                      # The Jekyll theme you're using
+plugins:
+  - jekyll-feed                   # Optional plugins (GitHub Pages supports limited plugins)
+
+# Social Links (Optional)
+social_links: 
+  twitter: "https://twitter.com/yourusername"
+  linkedin: "https://linkedin.com/in/yourusername"
+  github: "https://github.com/<yourusername>"
+
+# Markdown Settings
+markdown: kramdown
+highlighter: rouge
+
+# Build Settings
+exclude: ["README.md", "LICENSE"]  # Files to exclude from the site build
