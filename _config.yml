@@ -7,7 +7,7 @@ author:
 
 # URL Settings
 baseurl: ""                        # Base URL if the site is in a subdirectory (leave blank for root)
-url: "https://FNkrumah.github.io"  # URL of your site
+url: "https://eboquabena.github.io/FNkrumah.github.io/"  # URL of your site
 
 # Theme Settings
 theme: minima                      # The Jekyll theme you're using
